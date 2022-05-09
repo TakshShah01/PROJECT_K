@@ -1,0 +1,179 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+
+    background-image:url(photobg1.jpg);
+    background-size :cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+.h2_1
+ {
+    background: red;
+    text-align: center;
+    
+    
+
+}
+.h2_1 ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+.h2_1 ul li 
+{
+width: 120px;
+margin: 10px;
+padding: 15px;
+
+}
+.image
+{
+    
+    justify-items: center;
+    margin-left: 10px;
+    
+}
+.about
+{
+    font-size:1.5cm  ;
+    text-align: center;
+    color : red;
+    
+}
+.ph2
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 1 10px 0 0;
+
+}
+.under_abo p
+{
+    font-weight: bold;
+    text-align: justify;
+    font-family: Verdana;
+    margin-left: 750px;
+    margin-right: 10px;
+}
+.ph3 img
+{
+    
+    width:800px;
+    height: 500px;
+    padding: 1 10px 0 0;
+    margin-top: 449px;
+    margin-left: 419px;
+
+}
+.feat
+{
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    color: red;
+}
+
+.container {position: absolute; margin: 0; width:100%;  min-height: 600px; }
+
+.white-box { width: 1300px; height: 250px; margin-top: 50px; margin-left: auto; margin-right: auto;   
+  
+background: rgba(255,255,255,0.9);
+padding: 30px;
+-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+-ms-border-radius: 5px;
+-o-border-radius: 5px;
+border-radius: 5px;
+}
+
+.featured:before {
+content: '';
+font-weight: 400;
+display: inline-block;
+margin-right: 5px;
+color: #4CB1FF;
+}
+
+.vertical-text {width:50px; height:50px; margin: 30px 0 auto auto; background: #4CB1FF;}
+.vertical-text span {
+width: 50px;
+display: inline-block;
+text-align: center;
+-webkit-transform: rotate(-90deg);
+-moz-transform: rotate(-90deg);
+-ms-transform: rotate(-90deg);
+-o-transform: rotate(-90deg);
+transform: rotate(-90deg);
+}
+
+.testi
+{
+    font-size: 1.5cm;
+    margin-top: 400px;
+    text-align: center;
+}
+.testiabo img
+{
+width:1520px;
+height: 300px;
+margin-top: 20px;
+}
+.photo1 img
+{
+    margin-top: 20px;
+    float: left;
+    width: 380px;
+    height: 300px;
+}
+.photo2 img
+{
+    margin-top: 20px;
+    float: left;
+    width: 380px;
+    height: 300px;
+}
+.photo3 img
+{
+    margin-top: 20px;
+    float: left;
+    width: 380px;
+    height: 300px;
+}
+.photo4 img
+{
+    margin-top: 20px;
+    float: right;
+    width: 375px;
+    height: 300px;
+}
+.aust p
+{
+    text-align: center;
+    font-size: 1.5cm;
+    margin-top: 30px;
+}
+.shape p
+{
+    background-color: rgb(0, 0, 126);
+    height: 300px;
+    width: 1550px;
+    font-size: 1cm;
+}
+.shape2 p
+{
+    background-color: rgb(255, 255, 255);
+    height: 75px;
+    width: 1550px;
+    font-size: 1cm;
+}
